@@ -1,0 +1,30 @@
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 600px;
+}
+
+h1, .alert-heading {
+    color: #007bff;
+}
+
+button {
+    background-color: #28a745;
+    border-color: #28a745;
+}
+
+button:hover {
+    background-color: #218838;
+    border-color: #1e7e34;
+}
+
+.alert-warning {
+    border-left: 5px solid #ffcc00;
+}
+
+.alert a {
+    color: #ffffff;
+}
