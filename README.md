@@ -24,7 +24,15 @@ pip install flask flask-sqlalchemy flask-cors hashlib
 ```bash
 pip install eventlet
 ```
-
+```bash
+pip install transformers
+```
+```bash
+pip install torch
+````
+```bash
+pip install flask flask-sqlalchemy flask-socketio eventlet sentence-transformers scikit-learn
+```
 # uploads/ (Uploaded files directory)
 
 
