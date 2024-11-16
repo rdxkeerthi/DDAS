@@ -1,6 +1,5 @@
 # Data Download Duplication Alert System (DDAS) 
 # Author: IPsqSoftTech
-# Date: On Going
 # Version: 1.0
 # Description: 
 This script is designed to monitor the data download process and alert the user if there is any duplication in the downloaded data.
